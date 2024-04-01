@@ -1,6 +1,8 @@
 [
     {
       "doctor_id": "12345",
+      "doctor_name": "Dr. Michael Thompson",
+      "doctor_image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
       "patient_id": "67890",
       "appointment_date": "2024-04-15",
       "appointment_time": "10:00 AM",
@@ -10,6 +12,8 @@
     },
     {
       "doctor_id": "54321",
+      "doctor_name": "Dr. David Rodriguez",
+      "doctor_image": "https://media.istockphoto.com/id/177373093/photo/indian-male-doctor.jpg?s=612x612&w=0&k=20&c=5FkfKdCYERkAg65cQtdqeO_D0JMv6vrEdPw3mX1Lkfg=",
       "patient_id": "98765",
       "appointment_date": "2024-04-10",
       "appointment_time": "2:30 PM",
@@ -19,6 +23,8 @@
     },
     {
       "doctor_id": "67890",
+      "doctor_name": "Dr. Christopher Lee",
+      "doctor_image": "https://www.mvphealthcare.com/-/media/project/mvp/healthcare/hero-images/1-6-2-2-findadoctor.png?h=550&iar=0&w=393&rev=aad8c1c5f21d401091ed0f36f9da02a3&hash=D363D50C795676D5E9447F6FFB2D1E3C",
       "patient_id": "54321",
       "appointment_date": "2024-04-12",
       "appointment_time": "11:15 AM",
@@ -28,6 +34,8 @@
     },
     {
       "doctor_id": "98765",
+      "doctor_name": "Dr. Matthew Harris",
+      "doctor_image": "https://www.liveabout.com/thmb/zNzhc9WxUE_lf6r3P0yuAfBaoV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/doctor-with-stethoscope-in-hospital-642394515-5aa9a0b8a9d4f90037431454.jpg",
       "patient_id": "12345",
       "appointment_date": "2024-04-11",
       "appointment_time": "3:00 PM",
@@ -37,6 +45,8 @@
     },
     {
       "doctor_id": "24680",
+      "doctor_name": "Dr. Mohammed Wshyar",
+      "doctor_image": "https://scontent.febl5-2.fna.fbcdn.net/v/t39.30808-6/312397007_1773460406356467_6155174465001526724_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WS7eorbl3LMAX9I--yF&_nc_ht=scontent.febl5-2.fna&oh=00_AfAcoPxZSNNjtb0l1PtwSKhFyDD1TSyYZqM6vZ5j-YRxhg&oe=661019BC",
       "patient_id": "13579",
       "appointment_date": "2024-04-14",
       "appointment_time": "9:30 AM",
@@ -46,6 +56,8 @@
     },
     {
       "doctor_id": "13579",
+        "doctor_name": "Dr. Emily Williams",
+      "doctor_image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
       "patient_id": "24680",
       "appointment_date": "2024-04-16",
       "appointment_time": "1:45 PM",
@@ -55,6 +67,8 @@
     },
     {
       "doctor_id": "78901",
+        "doctor_name": "Dr. Olivia Martinez",
+      "doctor_image": "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsb2ZmaWNlMl9waG90b19vZl9hX2JsYWNrX3BsdXNfc2l6ZV9mZW1hbGVfZG9jdG9yX2luX2hvc19mOGU4MTBlMi1kOWEyLTQ5OTMtOWM0Zi1kNWI2OTQ5ODVmZTNfMi5qcGc.jpg",
       "patient_id": "23456",
       "appointment_date": "2024-04-13",
       "appointment_time": "4:30 PM",
@@ -64,6 +78,8 @@
     },
     {
       "doctor_id": "23456",
+        "doctor_name": "Dr. Sophia Taylor",
+      "doctor_image": "https://img.freepik.com/free-photo/smiling-asian-doctor-female-nurse-holding-clipboard-pen-wearing-uniform-with-gloves-writing-pati_1258-83340.jpg",
       "patient_id": "78901",
       "appointment_date": "2024-04-18",
       "appointment_time": "10:45 AM",
@@ -73,6 +89,8 @@
     },
     {
       "doctor_id": "10101",
+        "doctor_name": "Dr. Chloe Johnson",
+      "doctor_image": "https://i.pinimg.com/736x/b9/97/a5/b997a530822d0f2c03259070d4590d45.jpg",
       "patient_id": "56789",
       "appointment_date": "2024-04-17",
       "appointment_time": "3:30 PM",
@@ -82,6 +100,8 @@
     },
     {
       "doctor_id": "56789",
+        "doctor_name": "Dr. Ava Brown",
+      "doctor_image": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1711843200&semt=sph",
       "patient_id": "10101",
       "appointment_date": "2024-04-19",
       "appointment_time": "9:00 AM",
