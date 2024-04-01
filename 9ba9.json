@@ -24,7 +24,7 @@
     {
       "doctor_id": "67890",
       "doctor_name": "Dr. Christopher Lee",
-      "doctor_image": "https://www.mvphealthcare.com/-/media/project/mvp/healthcare/hero-images/1-6-2-2-findadoctor.png?h=550&iar=0&w=393&rev=aad8c1c5f21d401091ed0f36f9da02a3&hash=D363D50C795676D5E9447F6FFB2D1E3C",
+      "doctor_image": "https://cdn.punchng.com/wp-content/uploads/2023/09/20144750/Umoh-Michael-e1695217670244.jpeg",
       "patient_id": "54321",
       "appointment_date": "2024-04-12",
       "appointment_time": "11:15 AM",
@@ -35,7 +35,7 @@
     {
       "doctor_id": "98765",
       "doctor_name": "Dr. Matthew Harris",
-      "doctor_image": "https://www.liveabout.com/thmb/zNzhc9WxUE_lf6r3P0yuAfBaoV0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/doctor-with-stethoscope-in-hospital-642394515-5aa9a0b8a9d4f90037431454.jpg",
+      "doctor_image": "https://st3.depositphotos.com/1037987/32639/i/450/depositphotos_326395572-stock-photo-portrait-male-doctor-stethoscope-wearing.jpg",
       "patient_id": "12345",
       "appointment_date": "2024-04-11",
       "appointment_time": "3:00 PM",
@@ -57,7 +57,7 @@
     {
       "doctor_id": "13579",
         "doctor_name": "Dr. Emily Williams",
-      "doctor_image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+      "doctor_image": "https://media.istockphoto.com/id/528442293/photo/the-doctor-will-see-you-now.jpg?s=612x612&w=0&k=20&c=ZpTbnBowinhEWnns9cTYACq0RTmFqoSV4suOBjdW_Wo=",
       "patient_id": "24680",
       "appointment_date": "2024-04-16",
       "appointment_time": "1:45 PM",
@@ -79,7 +79,7 @@
     {
       "doctor_id": "23456",
         "doctor_name": "Dr. Sophia Taylor",
-      "doctor_image": "https://img.freepik.com/free-photo/smiling-asian-doctor-female-nurse-holding-clipboard-pen-wearing-uniform-with-gloves-writing-pati_1258-83340.jpg",
+      "doctor_image": "https://t3.ftcdn.net/jpg/05/04/25/70/360_F_504257032_jBtwqNdvdMN9Xm6aDT0hcvtxDXPZErrn.jpg",
       "patient_id": "78901",
       "appointment_date": "2024-04-18",
       "appointment_time": "10:45 AM",
@@ -90,7 +90,7 @@
     {
       "doctor_id": "10101",
         "doctor_name": "Dr. Chloe Johnson",
-      "doctor_image": "https://i.pinimg.com/736x/b9/97/a5/b997a530822d0f2c03259070d4590d45.jpg",
+      "doctor_image": "https://st.depositphotos.com/1258191/3501/i/450/depositphotos_35019551-Female-doctor.jpg",
       "patient_id": "56789",
       "appointment_date": "2024-04-17",
       "appointment_time": "3:30 PM",
@@ -101,7 +101,7 @@
     {
       "doctor_id": "56789",
         "doctor_name": "Dr. Ava Brown",
-      "doctor_image": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg?size=626&ext=jpg&ga=GA1.1.1224184972.1711843200&semt=sph",
+      "doctor_image": "https://st2.depositphotos.com/1345889/10015/i/950/depositphotos_100152546-stock-photo-attractive-young-female-doctor.jpg",
       "patient_id": "10101",
       "appointment_date": "2024-04-19",
       "appointment_time": "9:00 AM",
